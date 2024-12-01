@@ -11,6 +11,7 @@ public class searching extends playerDB{
     //player stuff...............................
 
     final public static Player getPlayerByName(String name) {
+        name=name.toLowerCase();
         if(playerDB.players.containsKey(name)){
             return playerDB.players.get(name);
         }
@@ -22,7 +23,8 @@ public class searching extends playerDB{
     //search Player by club and country
 
 	final public static Set<Player> getPlayerByClubAndCountry(String club, String country) {
-
+        club=club.toLowerCase();
+        country=country.toLowerCase();
         if(club.trim().toLowerCase().equals("all") && playerDB.countries.containsKey(country)){
             return playerDB.countries.get(country);
         }
@@ -58,6 +60,7 @@ public class searching extends playerDB{
     //search Player by position
 
     final public static Set<Player> getPlayerByPosition(String position) {
+        position=position.toLowerCase();
         if(playerDB.positions.containsKey(position)){
             return playerDB.positions.get(position);
         }
@@ -95,6 +98,7 @@ public class searching extends playerDB{
     //club stuff..........................
 
     final public static Set<Player> getPlayersWithMaxSalaryInClub(String club){
+
         Set<Player> playersInClub = get(club);
         int maxSalary = -1;
         Set<Player> result = new HashSet<>();
@@ -155,6 +159,7 @@ public class searching extends playerDB{
    }
 
    private static Set<Player> get(String club){
+        club=club.toLowerCase();
         if(playerDB.clubs.containsKey(club)){
             return playerDB.clubs.get(club);
         }

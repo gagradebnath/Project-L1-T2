@@ -20,7 +20,8 @@ public class FileIO extends searching{
            if (line == null) break;
            Player p = createPlayer(line);
          //   System.out.println(p);
-           playerDB.addPlayer(p);            
+           playerDB.addPlayer(p);
+           System.out.println(p);            
        }
        br.close();
    }

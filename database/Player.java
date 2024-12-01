@@ -11,12 +11,12 @@ public class Player {
     private int weeklySalary;
 
     public Player(String name, String country, int age, double height, String club, String position, int number, int weeklySalary) {
-        this.name = name;
-        this.country = country;
+        this.name = name.toLowerCase();
+        this.country = country.toLowerCase();
         this.age = age;
         this.height = height;
-        this.club = club;
-        this.position = position;
+        this.club = club.toLowerCase();
+        this.position = position.toLowerCase();
         this.number = number;
         this.weeklySalary = weeklySalary;
     }
@@ -86,23 +86,33 @@ public class Player {
         this.weeklySalary = weeklySalary;
     }
 
+    public static String capitalizeEachWord(String str){
+        String[] words = str.split(" ");
+        for(int i = 0; i < words.length; i++){
+            words[i] = words[i].substring(0, 1).toUpperCase() + words[i].substring(1);
+        }
+        str = String.join(" ", words);
+        return str.trim();
+    }
+
+
     @Override
     public String toString() {
         if(getNumber() == -1){
-            return getName() +
-            "," + getCountry()+
+            return capitalizeEachWord(getName()) +
+            "," + capitalizeEachWord(getCountry())+
             "," + getAge() + 
             "," + getHeight() +
-            "," + getClub() +
-            "," + getPosition() +
+            "," + capitalizeEachWord(getClub()) +
+            "," + capitalizeEachWord(getPosition()) +
             ",," + getWeeklySalary() ;
         }
-        return getName() +
-            "," + getCountry()+
+        return capitalizeEachWord(getName()) +
+            "," + capitalizeEachWord(getCountry())+
             "," + getAge() + 
             "," + getHeight() +
-            "," + getClub() +
-            "," + getPosition() +
+            "," + capitalizeEachWord(getClub()) +
+            "," + capitalizeEachWord(getPosition()) +
             "," + getNumber() +
             "," + getWeeklySalary() ;
     }

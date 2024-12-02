@@ -12,6 +12,7 @@ public class playerDB{
     public static Map<String, Set<Player>> positions=new HashMap<>();
     public static Map<Integer, Set<Player>> salaries=new HashMap<>();
 
+    //add player to database
     public static boolean addPlayer(Player p) {
 
         //if Player already exists, return false
@@ -47,6 +48,7 @@ public class playerDB{
 		return true;
 	}
 
+    //remove player from database
     public static boolean removePlayer(String name) {
         if(!players.containsKey(name)){
             return false;
@@ -103,8 +105,11 @@ public class playerDB{
     }
 
     //get nearest possible key value from map
-   
+    public static int getPlayerCount(Set<Player> set){
+        return set.size();
+    }
 
+    
 
 }
    

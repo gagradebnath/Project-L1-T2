@@ -236,7 +236,7 @@ public class Main {
         System.out.print("Enter Position: ");
         String position = scanner.nextLine();
 
-        System.out.print("Enter Number: ");
+        System.out.print("Enter Number: (enter -1 to skip)");
         int number = (int)getNumber();
 
         System.out.print("Enter Weekly Salary: ");

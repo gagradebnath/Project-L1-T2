@@ -72,8 +72,14 @@ public class searching extends playerDB{
 
 	final public static Set<Player> getPlayerBySalaryRange(int minSalary, int maxSalary) {
         Set<Player> result=new HashSet<>();
-        for(int i=minSalary;i<=maxSalary;i++){
-            if(playerDB.salaries.containsKey(i)){
+        // for(int i=minSalary;i<=maxSalary;i++){
+        //     if(playerDB.salaries.containsKey(i)){
+        //         result.addAll(playerDB.salaries.get(i));
+        //     }
+        // }
+        //traverse all the keys in saries and add the players with salaries in the range to result
+        for(int i : playerDB.salaries.keySet()){
+            if(i>=minSalary && i<=maxSalary){
                 result.addAll(playerDB.salaries.get(i));
             }
         }
@@ -83,6 +89,20 @@ public class searching extends playerDB{
         System.out.println("No such Player with this salary range");
         return result;
 	}
+
+    final public static Set<Player> getPlayerBySalaryRange(int minSalary, int maxSalary, Set<Player> player_list){
+        Set<Player> result=new HashSet<>();
+        for(Player p : player_list){
+            if(p.getWeeklySalary()>=minSalary && p.getWeeklySalary()<=maxSalary){
+                result.add(p);
+            }
+        }
+        if(result.size()>0){
+            return result;
+        }
+        System.out.println("No such Player with this salary range");
+        return result;
+    }
 
     //country wise Player count
 

@@ -95,10 +95,10 @@ The `Searching` class provides methods for searching players based on different 
 - `main(String[] args)`: The main method that starts the application.
 - `showMenu()`: Displays the main menu.
 - `searchPlayers()`: Displays the player search menu.
-- `SearchByClub()`: Displays the club search menu.
+- `searchByClub()`: Displays the club search menu.
 - `addPlayer()`: Adds a new player to the database.
 - `print(Player p)`: Prints player details.
-- `printset(Set<Player> set)`: Prints a set of players.
+- `printSet(Set<Player> set)`: Prints a set of players.
 
 ### Player
 

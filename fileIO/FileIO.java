@@ -21,7 +21,7 @@ public class FileIO extends searching{
            Player p = createPlayer(line);
          //   System.out.println(p);
            playerDB.addPlayer(p);
-           System.out.println(p);            
+        //    System.out.println(p);            
        }
        br.close();
    }

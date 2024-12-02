@@ -13,7 +13,7 @@ This project is a Java-based application for managing and searching player data.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Java_Term_Project_Part_1.git
+    git clone https://github.com/gagradebnath/Project-L1-T2.git
     ```
 2. Navigate to the project directory:
     ```sh

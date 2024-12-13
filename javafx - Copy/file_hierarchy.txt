@@ -1,0 +1,412 @@
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo
+  Subdirectories:
+    .git
+    .idea
+    .mvn
+    .settings
+    .vscode
+    my-javafx-app
+    src
+    target
+  Files:
+    .classpath
+    .gitignore
+    .project
+    erwer.py
+    mvnw
+    mvnw.cmd
+    pom.xml
+    sdas
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git
+  Subdirectories:
+    hooks
+    info
+    objects
+    refs
+  Files:
+    config
+    description
+    FETCH_HEAD
+    HEAD
+    index
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\hooks
+  Files:
+    applypatch-msg.sample
+    commit-msg.sample
+    fsmonitor-watchman.sample
+    post-update.sample
+    pre-applypatch.sample
+    pre-commit.sample
+    pre-merge-commit.sample
+    pre-push.sample
+    pre-rebase.sample
+    pre-receive.sample
+    prepare-commit-msg.sample
+    push-to-checkout.sample
+    sendemail-validate.sample
+    update.sample
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\info
+  Files:
+    exclude
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects
+  Subdirectories:
+    13
+    1d
+    31
+    32
+    39
+    40
+    53
+    5c
+    5f
+    7f
+    81
+    8a
+    94
+    aa
+    ad
+    c1
+    df
+    info
+    pack
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\13
+  Files:
+    566b81b018ad684f3a35fee301741b2734c8f4
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\1d
+  Files:
+    8ab018eaf11d9b3a4a90e7818ace373dfbb380
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\31
+  Files:
+    fbc18d35ca4e55fcb5379a79f60d7f0da50fd0
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\32
+  Files:
+    3135ee1fc0b7fede0922061f7d1f4aa210c864
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\39
+  Files:
+    88a5b5a21291f796262ba878a09dbd23d7a706
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\40
+  Files:
+    ca0155f714d58a8b51693db47b5d80821bad4c
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\53
+  Files:
+    0ba672144f0a0757d3e461b2bcbaa814923768
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\5c
+  Files:
+    d9a10818e367bbe38dc5ea54f5984c45d21060
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\5f
+  Files:
+    f2101f766f60fe36952589777e233698769705
+    f6309b7199129c1afe4f4ec1906e640bec48c6
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\7f
+  Files:
+    6f6fccb0f58c29b83ea2cd298aaf1fec41322e
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\81
+  Files:
+    b2914a8e26a47a185fb44d15ce9b0840d4dfcc
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\8a
+  Files:
+    8fb2282df5b8f7263470a5a2dc0e196f35f35f
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\94
+  Files:
+    a25f7f4cb416c083d265558da75d457237d671
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\aa
+  Files:
+    00ffab7828f4818589659c804ec2cfd99baed3
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\ad
+  Files:
+    7926d3e8603cf9cb4da2d91a8316c265921e4f
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\c1
+  Files:
+    dd12f17644411d6e840bd5a10c6ecda0175f18
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\df
+  Files:
+    815d2d5c4fa8640f00b34dece0535551186a7d
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\info
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\objects\pack
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\refs
+  Subdirectories:
+    heads
+    tags
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\refs\heads
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.git\refs\tags
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.idea
+  Files:
+    .gitignore
+    compiler.xml
+    encodings.xml
+    jarRepositories.xml
+    misc.xml
+    vcs.xml
+    workspace.xml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.mvn
+  Subdirectories:
+    wrapper
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.mvn\wrapper
+  Files:
+    maven-wrapper.jar
+    maven-wrapper.properties
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.settings
+  Files:
+    org.eclipse.core.resources.prefs
+    org.eclipse.jdt.apt.core.prefs
+    org.eclipse.jdt.core.prefs
+    org.eclipse.m2e.core.prefs
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\.vscode
+  Files:
+    launch.json
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app
+  Subdirectories:
+    .gradle
+    src
+  Files:
+    build.gradle
+    README.md
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\.gradle
+  Subdirectories:
+    nb-cache
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\.gradle\nb-cache
+  Subdirectories:
+    trust
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\.gradle\nb-cache\trust
+  Files:
+    90FFEF064F0BA3C9F50E00F16C0A896662E5B4909D27370D90510B4659A79B0A
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src
+  Subdirectories:
+    main
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main
+  Subdirectories:
+    java
+    resources
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\java
+  Subdirectories:
+    com
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\java\com
+  Subdirectories:
+    example
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\java\com\example
+  Subdirectories:
+    controllers
+  Files:
+    Main.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\java\com\example\controllers
+  Files:
+    MainController.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\resources
+  Subdirectories:
+    com
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\resources\com
+  Subdirectories:
+    example
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\my-javafx-app\src\main\resources\com\example
+  Files:
+    main.fxml
+    styles.css
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src
+  Subdirectories:
+    main
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main
+  Subdirectories:
+    java
+    resources
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java
+  Subdirectories:
+    com
+  Files:
+    module-info.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com
+  Subdirectories:
+    example
+    IPL
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\example
+  Subdirectories:
+    demo
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\example\demo
+  Files:
+    HelloApplication.java
+    HelloController.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\IPL
+  Subdirectories:
+    database
+    fileIO
+    search
+  Files:
+    Main.java
+    out.txt
+    readme.md
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\IPL\database
+  Files:
+    Player.java
+    playerDB.java
+    players.txt
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\IPL\fileIO
+  Files:
+    FileIO.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\java\com\IPL\search
+  Files:
+    searching.java
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\resources
+  Subdirectories:
+    com
+    fxml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\resources\com
+  Subdirectories:
+    example
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\resources\com\example
+  Subdirectories:
+    demo
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\resources\com\example\demo
+  Files:
+    hello-view.fxml
+    home.fxml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\src\main\resources\fxml
+  Files:
+    add_player.fxml
+    main_menu.fxml
+    search_by_club.fxml
+    search_players.fxml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target
+  Subdirectories:
+    classes
+    generated-sources
+    maven-status
+    test-classes
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes
+  Subdirectories:
+    com
+    fxml
+  Files:
+    module-info.class
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com
+  Subdirectories:
+    example
+    IPL
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\example
+  Subdirectories:
+    demo
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\example\demo
+  Files:
+    hello-view.fxml
+    HelloApplication.class
+    HelloController.class
+    home.fxml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\IPL
+  Subdirectories:
+    database
+    fileIO
+    search
+  Files:
+    Main.class
+    out.txt
+    readme.md
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\IPL\database
+  Files:
+    Player.class
+    playerDB.class
+    players.txt
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\IPL\fileIO
+  Files:
+    FileIO.class
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\com\IPL\search
+  Files:
+    searching.class
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\classes\fxml
+  Files:
+    add_player.fxml
+    main_menu.fxml
+    search_by_club.fxml
+    search_players.fxml
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\generated-sources
+  Subdirectories:
+    annotations
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\generated-sources\annotations
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\maven-status
+  Subdirectories:
+    maven-compiler-plugin
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\maven-status\maven-compiler-plugin
+  Subdirectories:
+    compile
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\maven-status\maven-compiler-plugin\compile
+  Subdirectories:
+    default-compile
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\maven-status\maven-compiler-plugin\compile\default-compile
+  Files:
+    createdFiles.lst
+    inputFiles.lst
+----------------------------------------
+Directory: B:\L1T2\project\Project-L1-T2\javafx - Copy\demo\target\test-classes
+----------------------------------------
